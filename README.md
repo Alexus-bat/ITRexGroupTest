@@ -1,6 +1,6 @@
 # ITRexGroupTest
 
-2. Maze
+## 2. Maze
 
 Solution and four tests
 
