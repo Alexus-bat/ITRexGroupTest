@@ -1,2 +1,3 @@
 # ITRexGroupTest
-Test tasks
+
+## 1. The current exchange rate
